@@ -1,0 +1,5 @@
+Pegar dados (texto) de uma planilha excel e sobrepor em uma imagem(certificado padrão)
+
+Pillow - sobrepor texto 
+openpyxl - ler dados de uma planilha 
+
